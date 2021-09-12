@@ -18,6 +18,8 @@
 [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" height="25" />][learning]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="25" />][learning]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-F0EFE7?style=for-the-badge&logo=git&logoColor=red" alt="Git" title="Git" height="25" />][learning]
 
 
 [learning]: #-im-currently-learning--improving-on
